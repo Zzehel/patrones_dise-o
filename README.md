@@ -1,2 +1,2 @@
-# patrones_dise-o
+# patrones_diseno
 clase diseño de sistemas de sotware - USC
